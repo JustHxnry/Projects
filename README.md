@@ -9,3 +9,5 @@
 🎈 Version: 1.0.0<br>
 💨 Project JSON: [raw JSON](https://dev.hxnrycz.xyz/raw)
 📰 Description: All my Projects displayed in JSON table
+
+![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=Status&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fdev.hxnrycz.xyz)
